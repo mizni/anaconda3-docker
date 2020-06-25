@@ -1,0 +1,2 @@
+# anaconda3-docker
+授業でつかうAnaconda3環境用のDockerfile
